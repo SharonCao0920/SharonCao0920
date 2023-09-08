@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### This is Sharon Cao, I am currently pursuing Master of Computer Science expecting April, 2023
 
 <!--
 **SharonCao0920/SharonCao0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
